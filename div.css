@@ -1,0 +1,48 @@
+
+.container{
+	background-color:white;
+	height:60%;
+	width:25%;
+	border-radius:85%;
+	margin-left:478px;
+	margin-bottom:px;
+	margin-top:115px;
+	background-image:url('./sai.png');
+	background-repeat:no-repeat;
+	background-size:95% 125%;
+	
+	}
+	
+.body{
+	background-image:url('./flagback.jfif');
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-size: 100% 100%;
+	
+}
+
+.login{
+	color:022E05;
+	padding-left:70px;
+	padding-top:30px;
+}
+.user{
+	color:17055C;
+	padding-left:20px;
+	font-size:21px;
+}
+.signin{
+	color:05476A;
+	font-size:18px
+}
+
+.table{
+	font-size:19px;
+	padding-left:60px;
+	
+}
+
+a[target]
+{
+	text-decoration:none;
+}
